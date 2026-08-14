@@ -1,0 +1,6 @@
+{
+  "name": "Gear 360 Video Stitcher",
+  "description": "One-touch automatic 360 video stitcher for Samsung Gear 360 (SM-C200) raw dual-lens footage with YouTube and Facebook spatial 360 metadata injection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
